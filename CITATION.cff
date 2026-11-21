@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "ZSTC-Clove-V1: Deep Learning Feasibility Study for Automated Clove Quality Grading in Zanzibar"
+type: software
+authors:
+  - family-names: Ndowo
+    given-names: Patrick Vincent
+  - family-names: Nyalala
+    given-names: Innocent
+    orcid: "https://orcid.org/0000-0002-7969-437X"
+repository-code: "https://github.com/saaillab/zstc-clove-v1"
+url: "https://saaillab.github.io/zstc-clove-v1/"
+license: MIT
+year: 2026

@@ -1,3 +1,5 @@
+[![Project Page](https://img.shields.io/badge/Project%20Page-Live-2563eb)](https://saaillab.github.io/zstc-clove-v1/) [![SAAIL Lab](https://img.shields.io/badge/SAAIL%20Lab-AI4EAC%202026-0f172a)](https://saaillab.github.io/papers/zstc-clove-v1/)
+
 # Deep Learning for Automated Clove Quality Grading: A Feasibility Study
 
 [![AI4EAC 2026](https://img.shields.io/badge/AI4EAC-2026-orange)](https://sti.easteco.org/)
