@@ -1,5 +1,6 @@
 cff-version: 1.2.0
-title: "ZSTC-Clove-V1: Deep Learning Feasibility Study for Automated Clove Quality Grading in Zanzibar"
+title: "Deep Learning Feasibility Study for Automated Clove Quality Classification Using CNN Architectures on a Novel Zanzibar Dataset"
+message: "If you use this dataset or study, please cite our work."
 type: software
 authors:
   - family-names: Ndowo
